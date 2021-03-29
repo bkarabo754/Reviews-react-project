@@ -33,7 +33,7 @@ const Review = () => {
         <FaChevronRight />
       </button>
       <button className="random-btn">
-        surprise me and teach
+        surprise me and teach me to code
       </button>
     </div>
     </article>
